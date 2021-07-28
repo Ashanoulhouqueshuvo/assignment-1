@@ -1,0 +1,67 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+#Highlights{
+    color:tomato;
+    font-weight: 700;
+}
+.first-section{
+    font-weight: 700;
+    font-size: 40px;
+    width: 50%;
+    color: gray;
+    padding-left: 5%;
+
+}
+.first-section img{
+    width: 80%;
+}
+.first{
+    display: flex;
+}
+#text-first{
+    font-weight: 400;
+    color: gray;
+    font-size: 20px;
+}
+.btn-click{
+    
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: wheat;
+    padding: 3px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    text-decoration: none;
+    
+}
+.second{
+    display: flex;
+    margin-top: 10px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+#text-second{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.recipie-iteam{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10%;
+
+}
+.recipie-iteam img{
+    
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    height: 50%;
+}
